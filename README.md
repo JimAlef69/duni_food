@@ -1,2 +1,2 @@
 # duni_food
-this app for learning andriod programing
+this my first github project
